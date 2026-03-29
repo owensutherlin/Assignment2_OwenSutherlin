@@ -11,7 +11,7 @@ Google Colab: Python 3
 
 ## 4. Installed Dependencies
 pip install numpy pandas matplotlib scikit-learn opencv-python pillow
-^All were previously installed. 
+^All were previously installed.
 
 ## 5. Verified Functionality
 Ran: python convert.py & python train_baseline_classifiers.py
