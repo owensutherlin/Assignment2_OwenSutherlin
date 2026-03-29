@@ -17,7 +17,7 @@ This assignment scales the original approach through controlled image augmentati
 
 ## Repository Structure
 ```
-Project2/
+Assignment2_OwenSutherlin/
 ├── src/                        # Source scripts
 │   ├── convert.py
 │   ├── train_baseline_classifiers.py
